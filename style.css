@@ -1,0 +1,49 @@
+#imagem {
+  width: 324px;
+}
+
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: medium;
+  margin-bottom: 32px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+span {
+  color: #ee24ff;
+}
+
+body {
+  font-family: "Open Sans, sans serif";
+  text-align: center;
+  font-weight: regular;
+}
+
+p span {
+  color: #828282;
+}
+
+#line {
+  width: 568px;
+  height: 0px;
+  margin: 0 auto 8px;
+  border: 1px solid #eceff2;
+}
+
+a {
+  font-weight: bold;
+  color: #3f3d56;
+}
+
+#Wave {
+  width: 1300px;
+  position: absolute;
+  margin: auto;
+  left: 0px;
+  right: 0px;
+}
